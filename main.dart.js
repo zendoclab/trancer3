@@ -74931,7 +74931,7 @@ p=t.F
 r=A.ahR(A.a([s,A.kR(new A.FG(new A.a5A(new A.acR(g),r,!0,!0,!0,f),f,B.bk,!1,f,f,q,!1,f,r,B.b_,B.In,f,B.aY,f),1)],p),B.c6,B.d6,B.cd)
 g.a.toString
 q=A.f0("trancer3",f,B.aH.a6F(B.an,B.bG))
-s=A.ajq(B.BQ,d.gfe(0)==="ko"?"\ub9c8\uc74c\ucc59\uae40 \uc218\uba74\uba85\uc0c1":"mindfulness hypnagogic meditation")
+s=A.ajq(B.BQ,d.gfe(0)==="ko"?"\ub9c8\uc74c\ucc59\uae40 \uc785\uba74\uba85\uc0c1":"mindfulness hypnagogic meditation")
 o=A.a([new A.en(B.kz,A.ayf(B.i,new A.pE(A.aAp(f,f,new A.tV("images/zendoclogo-min.PNG",f,f)),B.xr,f),f,new A.acS(g),f,e),f)],p)
 n=t.t_
 n=!g.ax?A.a([B.c5,B.dQ],n):A.a([B.cK,B.dQ],n)
