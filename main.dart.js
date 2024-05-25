@@ -77056,7 +77056,7 @@ s.z=r},
 $S:0}
 A.ag4.prototype={
 $1(a){var s=null
-return A.alk(A.b([A.hD(A.aCd(A.amW(s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,A.j3("https://zendoclab.github.io/trancer3-mindfulness-hypnagogia"))),1)],t.F),B.co,B.cv,B.cw)},
+return A.alk(A.b([A.hD(A.aCd(A.amW(s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,A.j3("https://zendoclab.blogspot.com/2024/05/trancer3-mindfulness-hypnagogic.html#main"))),1)],t.F),B.co,B.cv,B.cw)},
 $S:496}
 A.agl.prototype={
 $0(){var s=this.a,r=this.b
